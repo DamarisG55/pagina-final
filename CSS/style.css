@@ -1,0 +1,371 @@
+
+
+/* Header section */
+ h1{
+	color:black;
+}
+/*barra de busqueda*/
+.menuCSS3 a{
+    font-size: 1.5rem;
+	font-weight: 100;
+	letter-spacing: 0.2rem;
+	text-decoration: none;
+	background-color:  rgb(238, 168, 234);
+	color: white;
+	text-transform: uppercase;
+	padding: 15px;
+	display: block;
+   
+}
+.menuCSS3 a:hover 
+{
+    color: crimson;
+     }
+     .menuCSS3 ul{
+        display: flex;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    
+    .menuCSS3 ul li ul{
+        display: none;
+    }
+	/* fin de barra de busqueda*/
+    /*centrar barra*/
+#inicio .menuCSS3 {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 300px;
+	justify-content: flex-start;
+}
+/* fin de centrar barra*/
+
+/* Header section */
+
+/*  fin inicio Section */
+
+
+
+#inicio h2 {
+	
+	font-family: 'Edu VIC WA NT Beginner';
+	font-size: 50px;
+	position: relative;
+	color: crimson;
+	text-align: center;
+}
+
+
+
+
+/* inicio Section */
+
+
+
+
+
+/*oferta Section*/
+/*centrar barra*/
+#oferta .ofertaCSS{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 350px;
+	justify-content: flex-start;
+}
+/*centrar barra*/
+/*barra de busqueda*/
+.ofertaCSS a{
+	font-size: 1.4rem;
+	font-weight: 100;
+	letter-spacing: 0.2rem;
+	text-decoration: none;
+	background-color:  rgb(238, 168, 234);
+	color: white;
+	text-transform: uppercase;
+	padding: 15px;
+	display: block;	
+	background-position: top center;
+	position: relative;
+}
+.ofertaCSS a:hover{
+color:  crimson;
+
+}
+
+.ofertaCSS ul{
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+}
+
+.ofertaCSS ul li ul{
+	display: none;
+}
+/*barra de busqueda*/
+/*texto antes de banner*/
+.we{
+	text-align: center;
+	font-family: 'Edu VIC WA NT Beginner';
+    font-size: 50px;
+	color: black;
+}
+.wee{
+	text-align: center;
+	font-family: 'Edu VIC WA NT Beginner';
+    font-size: 32px;
+	color: crimson;
+}
+.pipi{
+	text-align: center;
+	font-family: 'Edu VIC WA NT Beginner';
+    font-size: 35px;
+    color:black;
+	
+}
+.zz{
+	text-align: center;
+	font-family: 'Edu VIC WA NT Beginner';
+    font-size: 25px;
+    color: black;
+}
+.zzz{
+	text-align: center;
+	font-family: 'Edu VIC WA NT Beginner';
+    font-size: 27px;
+    color:black;
+}
+/*texto antes de banner*/
+/* baner*/
+.ze{
+	text-align: center;
+	padding-left: 70px;
+	margin-top: 6px;
+	font-family: 'Edu VIC WA NT Beginner';
+	font-size: 16px;
+	color: rgb(69, 68, 68);
+	display: flex;
+}
+.se{
+	margin-left: 85px;
+
+}
+
+
+.maqui{
+
+	width: 380px;
+    height: 310px;
+
+
+}
+
+ .hoo{
+    font-size: 16px;
+    color: red;
+    font-family: 'Edu VIC WA NT Beginner';
+	font-size: 20px;
+	margin-top: 7px;
+	text-align: center;
+}
+.estre{
+	width: 100px;
+    height: 15px;
+}
+.hh{
+	font-size: 15px;
+    color: rgb(53, 51, 51);
+	font-family: 'Edu VIC WA NT Beginner';
+}
+/*centrar banner*/
+.container1{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+/*centrar banner*/
+/*separar banner*/
+.container1 .responsive-banner{
+    width: 380px;
+    height: 480px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
+	background-image: linear-gradient(to bottom right, #bcf4fc, #fbf0ff);
+
+}
+/*separar banner*/
+
+
+/* banner */
+
+
+
+
+
+
+/*productos section*/
+/*centrar barra*/
+#productos .productoCSS{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 350px;
+	justify-content: flex-start;
+}
+/*centrar barra*/
+/*barra de busqueda*/
+.productoCSS a{
+	font-size: 1.4rem;
+	font-weight: 100;
+	letter-spacing: 0.2rem;
+	text-decoration: none;
+	background-color:  rgb(238, 168, 234);
+	color: white;
+	text-transform: uppercase;
+	padding: 15px;
+	display: block;	
+	background-position: top center;
+	position: relative;
+}
+.productoCSS a:hover{
+color:  crimson;
+
+}
+
+.productoCSS ul{
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+}
+
+.productoCSS ul li ul{
+	display: none;
+}
+/*barra de busqueda*/
+/* baner*/
+.ze{
+	text-align: center;
+	padding-left: 70px;
+	margin-top: 6px;
+	font-family: 'Edu VIC WA NT Beginner';
+	font-size: 16px;
+	color: rgb(69, 68, 68);
+	display: flex;
+}
+.se{
+	margin-left: 85px;
+
+}
+
+
+.bolso{
+
+	width: 380px;
+    height: 310px;
+
+
+}
+
+ .hb{
+    font-size: 16px;
+    color: red;
+    font-family: 'Edu VIC WA NT Beginner';
+	font-size: 20px;
+	margin-top: 7px;
+	text-align: center;
+}
+.estre{
+	width: 100px;
+    height: 15px;
+}
+.hh{
+	font-size: 15px;
+    color: rgb(53, 51, 51);
+	font-family: 'Edu VIC WA NT Beginner';
+}
+/*centrar banner*/
+.container2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+/*centrar banner*/
+/*separar banner*/
+.container2 .responsive-banner{
+    width: 380px;
+    height: 480px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
+	background-image: linear-gradient(to bottom right, #d1e6f8, #f5e4ee);
+}
+/*separar banner*/
+
+
+/* banner */
+
+/*contactanos section*/
+/*centrar barra*/
+#contactanos .contactanosCSS{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 350px;
+	justify-content: flex-start;
+}
+/* fin de centrar barra*/
+/*barra de busqueda*/
+.contactanosCSS a{
+	font-size: 1.4rem;
+	font-weight: 100;
+	letter-spacing: 0.2rem;
+	text-decoration: none;
+	background-color:  rgb(238, 168, 234);
+	color: white;
+	text-transform: uppercase;
+	padding: 15px;
+	display: block;	
+	background-position: top center;
+	position: relative;
+}
+.contactanosCSS a:hover{
+color:  crimson;
+
+}
+
+.contactanosCSS ul{
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+
+}
+
+.contactanosCSS ul li ul{
+	display: none;
+}
+/* fin de barra de busqueda*/
+.hello{
+	width: 50px;
+    height: 50px;
+	
+}
+.jj{
+	border-spacing: 45px;
+}
+
+.ww{
+	background-color: rgb(211, 249, 255);
+}
+/*fin de contactanos*/
